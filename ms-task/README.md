@@ -1,8 +1,8 @@
-#Microservice Task
+# Microservice Task
 
 The application provides Restful API in order to handle Tasks.
 
-##How to run
+## How to run
 Installing dependencies
 ```
 mvn clean install
@@ -13,7 +13,7 @@ Running application
 mvn spring-boot:run
 ```
 
-##Principles, Design, and Practices
+## Principles, Design, and Practices
 * OOP
 * Design Patterns
 * Clean Architecture
@@ -25,7 +25,7 @@ mvn spring-boot:run
 * DRY
 * YAGN
 
-##Stacks
+## Stacks
 * [Java 11](https://openjdk.java.net/projects/jdk/11/)
 * [Maven](https://maven.apache.org/)
 * [Spring Boot 2.5.4](https://spring.io/projects/spring-boot)
